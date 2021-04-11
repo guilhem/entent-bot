@@ -1,4 +1,7 @@
 # entent-bot
+
+[![](https://top.gg/api/widget/status/830461226881908757.svg)](https://top.gg/bot/830461226881908757)
+
 A discord bot to manage public meeting in stage channels
 
 ## Goal
